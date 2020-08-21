@@ -1,0 +1,13 @@
+C:\Users\Dani\repos\VariableConsoleApp\bin\Debug\netcoreapp3.1\VariableConsoleApp.exe
+C:\Users\Dani\repos\VariableConsoleApp\bin\Debug\netcoreapp3.1\VariableConsoleApp.deps.json
+C:\Users\Dani\repos\VariableConsoleApp\bin\Debug\netcoreapp3.1\VariableConsoleApp.runtimeconfig.json
+C:\Users\Dani\repos\VariableConsoleApp\bin\Debug\netcoreapp3.1\VariableConsoleApp.runtimeconfig.dev.json
+C:\Users\Dani\repos\VariableConsoleApp\bin\Debug\netcoreapp3.1\VariableConsoleApp.dll
+C:\Users\Dani\repos\VariableConsoleApp\bin\Debug\netcoreapp3.1\VariableConsoleApp.pdb
+C:\Users\Dani\repos\VariableConsoleApp\obj\Debug\netcoreapp3.1\VariableConsoleApp.csprojAssemblyReference.cache
+C:\Users\Dani\repos\VariableConsoleApp\obj\Debug\netcoreapp3.1\VariableConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Dani\repos\VariableConsoleApp\obj\Debug\netcoreapp3.1\VariableConsoleApp.AssemblyInfo.cs
+C:\Users\Dani\repos\VariableConsoleApp\obj\Debug\netcoreapp3.1\VariableConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Dani\repos\VariableConsoleApp\obj\Debug\netcoreapp3.1\VariableConsoleApp.dll
+C:\Users\Dani\repos\VariableConsoleApp\obj\Debug\netcoreapp3.1\VariableConsoleApp.pdb
+C:\Users\Dani\repos\VariableConsoleApp\obj\Debug\netcoreapp3.1\VariableConsoleApp.genruntimeconfig.cache
